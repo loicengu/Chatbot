@@ -1,0 +1,174 @@
+{
+  "apple": {
+    "definition": "a round fruit with red, yellow, or green skin and firm white flesh",
+    "usage_example": "She took a bite of the apple."
+  },
+  "happy": {
+    "definition": "feeling or showing pleasure or contentment",
+    "usage_example": "The children were happy to see their friends."
+  },
+  "banana": {
+    "definition": "a long curved fruit with a yellow skin",
+    "usage_example": "He peeled the banana before eating it."
+  },
+  "cat": {
+    "definition": "a small domesticated carnivorous mammal with soft fur",
+    "usage_example": "The cat purred as it was petted."
+  },
+  "dog": {
+    "definition": "a domesticated carnivorous mammal with four legs and a wagging tail",
+    "usage_example": "The dog chased its tail in the backyard."
+  },
+  "flower": {
+    "definition": "the reproductive structure found in plants, usually colorful and fragrant",
+    "usage_example": "She gave her mother a bouquet of flowers."
+  },
+  "tree": {
+    "definition": "a large plant with a woody stem and branches, typically producing fruits or flowers",
+    "usage_example": "The kids climbed the tree to get the ripe fruits."
+  },
+  "bird": {
+    "definition": "a warm-blooded vertebrate animal with feathers and beaks",
+    "usage_example": "The bird sang a beautiful melody in the morning."
+  },
+  "elephant": {
+    "definition": "a large mammal with long tusks and a trunk found in Africa and Asia",
+    "usage_example": "The elephants bathed in the river to cool off."
+  },
+  "butterfly": {
+    "definition": "a flying insect with large, often colorful wings",
+    "usage_example": "The butterfly fluttered from flower to flower."
+  },
+  "car": {
+    "definition": "a motor vehicle with four wheels, used for transportation",
+    "usage_example": "They went on a road trip in their family car."
+  },
+  "train": {
+    "definition": "a set of connected vehicles traveling on tracks, used for transportation",
+    "usage_example": "The train whistled loudly as it approached the station."
+  },
+  "airplane": {
+    "definition": "a powered flying vehicle with fixed wings and engines",
+    "usage_example": "They boarded the airplane for their vacation."
+  },
+  "boat": {
+    "definition": "a small vessel used for traveling on water",
+    "usage_example": "They sailed the boat across the lake."
+  },
+  "computer": {
+    "definition": "an electronic device that processes data and performs calculations",
+    "usage_example": "He used the computer to do his schoolwork."
+  },
+  "pencil": {
+    "definition": "a writing instrument with a graphite core and a wooden casing",
+    "usage_example": "She used a pencil to draw a picture."
+  },
+  "book": {
+    "definition": "a written or printed work consisting of pages bound together",
+    "usage_example": "He read a book before going to bed."
+  },
+  "lamp": {
+    "definition": "an electrical device that provides light",
+    "usage_example": "She turned on the lamp to read at night."
+  },
+  "sun": {
+    "definition": "the star that is the central body of the solar system",
+    "usage_example": "The sun rose in the morning, bringing light and warmth."
+  },
+  "moon": {
+    "definition": "the natural satellite that orbits the Earth",
+    "usage_example": "The moon shines brightly in the night sky."
+  },
+  "star": {
+    "definition": "a luminous celestial object made up of hot gases",
+    "usage_example": "They observed the stars through a telescope."
+  },
+  "water": {
+    "definition": "a colorless, transparent, odorless liquid essential for life",
+    "usage_example": "She drank a glass of water to quench her thirst."
+  },
+  "fire": {
+    "definition": "the rapid oxidation of a material, producing heat and light",
+    "usage_example": "The fire crackled in the fireplace, providing warmth."
+  },
+  "air": {
+    "definition": "the invisible gaseous substance surrounding the Earth",
+    "usage_example": "We breathe in the fresh air during a walk in the park."
+  },
+  "earth": {
+    "definition": "the third planet from the Sun, home to living organisms",
+    "usage_example": "The Earth is our home planet, full of diverse life."
+  },
+  "mountain": {
+    "definition": "a large landform that rises prominently above its surroundings",
+    "usage_example": "They hiked to the top of the mountain for a breathtaking view."
+  },
+  "river": {
+    "definition": "a large natural watercourse flowing toward an ocean, lake, or another river",
+    "usage_example": "The river flowed swiftly through the valley."
+  },
+  "ocean": {
+    "definition": "a vast expanse of saltwater covering most of the Earth's surface",
+    "usage_example": "They enjoyed swimming in the ocean on a hot summer day."
+  },
+  "beach": {
+    "definition": "a sandy or pebbly shore by the edge of the sea or a lake",
+    "usage_example": "They built sandcastles on the beach during their vacation."
+  },
+  "forest": {
+    "definition": "a large area covered with trees and undergrowth",
+    "usage_example": "They went camping in the forest and enjoyed the nature."
+  },
+  "city": {
+    "definition": "a large and densely populated urban area with buildings and infrastructure",
+    "usage_example": "They visited the city to explore its landmarks and attractions."
+  },
+  "moonlight": {
+    "definition": "the light of the moon shining during the night",
+    "usage_example": "They took a romantic walk in the moonlight."
+  },
+  "rocket": {
+    "definition": "a vehicle used for space travel, propelled by engines",
+    "usage_example": "The rocket blasted off into space on a historic mission."
+  },
+  "guitar": {
+    "definition": "a musical instrument with strings that is played with fingers or a pick",
+    "usage_example": "He strummed the guitar and sang a song."
+  },
+  "piano": {
+    "definition": "a musical instrument with keys that produces sound by striking strings",
+    "usage_example": "She played a beautiful melody on the piano."
+  },
+  "violin": {
+    "definition": "a musical instrument with strings that is played with a bow",
+    "usage_example": "He played a classical piece on the violin."
+  },
+  "ballet": {
+    "definition": "a highly skilled dance form often accompanied by classical music",
+    "usage_example": "The ballet performance was graceful and elegant."
+  },
+  "soccer": {
+    "definition": "a team sport played on a rectangular field, also known as football in some regions",
+    "usage_example": "They played soccer in the park with their friends."
+  },
+  "basketball": {
+    "definition": "a team sport played on a court with a hoop and a ball",
+    "usage_example": "He made a slam dunk in the basketball game."
+  },
+  "swimming": {
+    "definition": "the act or sport of moving through water by using the limbs",
+    "usage_example": "She enjoys swimming in the pool during the summer."
+  },
+  "climbing": {
+    "definition": "the act of ascending steep objects or walls",
+    "usage_example": "They went rock climbing in the mountains."
+  },
+  "painting": {
+    "definition": "the act or art of applying paint to a surface",
+    "usage_example": "She created a beautiful painting of the landscape."
+  },
+  "drawing": {
+    "definition": "the act or art of creating images on a surface using pencils, pens, or similar tools",
+    "usage_example": "He showed his talent for drawing with detailed sketches."
+  }
+}
